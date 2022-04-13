@@ -4,7 +4,7 @@
 
 Hello! This is the **TinDog** web site. 
 
-<img src="images/tindog-site.gif">
+<img src="img/portfolio-site.gif">
 
 I made this project based on the <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Angela Yu</a> course first challenge.
 

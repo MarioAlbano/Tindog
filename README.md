@@ -1,6 +1,6 @@
 # TinDog
 
-# Under development! / Em construção!
+# Under development! | Em construção!
 
 <img src="images/tindog-site.gif">
 

@@ -4,7 +4,7 @@
 
 <img src="images/tindog-site.gif">
 
-Hello! This is the **TinDog** web site. 
+[EN] Hello! This is the **TinDog** web site. 
 
 I made this project based on the <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Angela Yu</a> course first challenge.
 
@@ -14,7 +14,7 @@ Feel free to contact me. Thanks for your visit!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Olá! Este é o web site **TinDog**.
+[BR] Olá! Este é o web site **TinDog**.
 
 Fiz este projeto baseado no primeiro desafio do curso feito pela <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Angela Yu</a>.
 

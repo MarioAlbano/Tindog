@@ -18,6 +18,6 @@ Feel free to contact me. Thanks for your visit!
 
 Fiz este projeto baseado no primeiro desafio do curso feito pela <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Angela Yu</a>.
 
-É um site simples com uma ideia ficcional e cômica de ser um Tinder para cachorros. Nele aprendi os primeidos passos de como usar o **CSS** para manipular container e imagens, z-index, básico sobre **Design** de cores e tipografia e também como usar o **Bootstrap**, com atenção a **Responsividade**. Eu pretendo implementar com **JavaScript** no futuro e customiza-lo ainda mais.
+Um site simples com uma ideia ficcional e cômica de ser um Tinder para cachorros. Nele aprendi os primeidos passos de como usar o **CSS** para manipular container e imagens, z-index, básico sobre **Design** de cores e tipografia e também como usar o **Bootstrap**, com atenção a **Responsividade**. Eu pretendo implementar com **JavaScript** no futuro e customiza-lo ainda mais.
 
 Sinta-se livre pra me contactar. Obrigado pela sua visita!
